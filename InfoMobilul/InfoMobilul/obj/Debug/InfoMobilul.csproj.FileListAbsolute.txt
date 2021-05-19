@@ -1,0 +1,30 @@
+C:\Users\Theo\Desktop\CB, VS projects\InfoMobilul\InfoMobilul\obj\Debug\InfoMobilul.csprojAssemblyReference.cache
+C:\Users\Theo\Desktop\CB, VS projects\InfoMobilul\InfoMobilul\obj\Debug\InfoMobilul.Form1.resources
+C:\Users\Theo\Desktop\CB, VS projects\InfoMobilul\InfoMobilul\obj\Debug\InfoMobilul.Properties.Resources.resources
+C:\Users\Theo\Desktop\CB, VS projects\InfoMobilul\InfoMobilul\obj\Debug\InfoMobilul.csproj.GenerateResource.cache
+C:\Users\Theo\Desktop\CB, VS projects\InfoMobilul\InfoMobilul\obj\Debug\InfoMobilul.csproj.CoreCompileInputs.cache
+C:\Users\Theo\Desktop\CB, VS projects\InfoMobilul\InfoMobilul\bin\Debug\InfoMobilul.exe.config
+C:\Users\Theo\Desktop\CB, VS projects\InfoMobilul\InfoMobilul\bin\Debug\InfoMobilul.exe
+C:\Users\Theo\Desktop\CB, VS projects\InfoMobilul\InfoMobilul\bin\Debug\InfoMobilul.pdb
+C:\Users\Theo\Desktop\CB, VS projects\InfoMobilul\InfoMobilul\obj\Debug\InfoMobilul.exe
+C:\Users\Theo\Desktop\CB, VS projects\InfoMobilul\InfoMobilul\obj\Debug\InfoMobilul.pdb
+C:\Users\Theo\Desktop\CB, VS projects\InfoMobilul\InfoMobilul\bin\Debug\InfoMobilul.mdf
+C:\Users\Theo\Desktop\CB, VS projects\InfoMobilul\InfoMobilul\bin\Debug\InfoMobilul_log.ldf
+C:\Users\Theo\Desktop\CB, VS projects\InfoMobilul\InfoMobilul\obj\Debug\InfoMobilul.MainForm.resources
+C:\Users\Theo\Desktop\CB, VS projects\InfoMobilul\InfoMobilul\obj\Debug\InfoMobilul.InregForm.resources
+C:\Users\Theo\Desktop\CB, VS projects\InfoMobilul\InfoMobilul\obj\Debug\InfoMobilul.SettingsForm.resources
+C:\Users\Theo\Desktop\InfoMobilul\InfoMobilul\bin\Debug\InfoMobilul.mdf
+C:\Users\Theo\Desktop\InfoMobilul\InfoMobilul\bin\Debug\InfoMobilul_log.ldf
+C:\Users\Theo\Desktop\InfoMobilul\InfoMobilul\bin\Debug\InfoMobilul.exe.config
+C:\Users\Theo\Desktop\InfoMobilul\InfoMobilul\bin\Debug\InfoMobilul.exe
+C:\Users\Theo\Desktop\InfoMobilul\InfoMobilul\bin\Debug\InfoMobilul.pdb
+C:\Users\Theo\Desktop\InfoMobilul\InfoMobilul\obj\Debug\InfoMobilul.csprojAssemblyReference.cache
+C:\Users\Theo\Desktop\InfoMobilul\InfoMobilul\obj\Debug\InfoMobilul.Form1.resources
+C:\Users\Theo\Desktop\InfoMobilul\InfoMobilul\obj\Debug\InfoMobilul.InregForm.resources
+C:\Users\Theo\Desktop\InfoMobilul\InfoMobilul\obj\Debug\InfoMobilul.MainForm.resources
+C:\Users\Theo\Desktop\InfoMobilul\InfoMobilul\obj\Debug\InfoMobilul.Properties.Resources.resources
+C:\Users\Theo\Desktop\InfoMobilul\InfoMobilul\obj\Debug\InfoMobilul.SettingsForm.resources
+C:\Users\Theo\Desktop\InfoMobilul\InfoMobilul\obj\Debug\InfoMobilul.csproj.GenerateResource.cache
+C:\Users\Theo\Desktop\InfoMobilul\InfoMobilul\obj\Debug\InfoMobilul.csproj.CoreCompileInputs.cache
+C:\Users\Theo\Desktop\InfoMobilul\InfoMobilul\obj\Debug\InfoMobilul.exe
+C:\Users\Theo\Desktop\InfoMobilul\InfoMobilul\obj\Debug\InfoMobilul.pdb
